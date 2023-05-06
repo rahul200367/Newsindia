@@ -1,0 +1,267 @@
+
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Alex Harring, Tanaya Macheel",
+        "title": "Stock futures are down as traders mull prospects of higher rates - CNBC",
+        "description": "Stock futures were little changed Tuesday as concern over higher rates lingered among traders.",
+        "url": "https://www.cnbc.com/2023/01/09/stock-market-futures-open-to-close-news.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107131149-1665160100518-chin.jpg?v=1673305685&w=1920&h=1080",
+        "publishedAt": "2023-01-10T12:34:00Z",
+        "content": "Stock futures were down Tuesday as concern over higher rates lingered among traders awaiting comments from a closely followed Federal Reserve leader.\r\nFutures tied to the Dow Jones Industrial Average… [+1870 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Steve Almasy",
+        "title": "Georgia Bulldogs crush the Texas Christian University Horned Frogs 65-7 to win second consecutive College Football Playoff National Championship - CNN",
+        "description": "The No. 1 Georgia Bulldogs scored on their first six drives and dominated No. 3 Texas Christian University 65-7 to win their second consecutive College Football Playoff championship game on Monday night in Inglewood, California.",
+        "url": "https://www.cnn.com/2023/01/09/sport/georgia-tcu-national-championship-how-to-watch-spt-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230110113822-stetson-bennett-010923.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-01-10T11:25:00Z",
+        "content": "The No. 1 Georgia Bulldogs scored on their first six drives and dominated No. 3 Texas Christian University 65-7 to win their second consecutive College Football Playoff championship game on Monday ni… [+3494 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "House passes bill cutting IRS funding, no chance in Senate - WCNC",
+        "description": "House Republicans began their tenure in the majority Monday by passing a bill that would rescind nearly $71 billion that Congress had provided the IRS, fulfi...",
+        "url": "https://www.youtube.com/watch?v=cJRdD_0ln4Y",
+        "urlToImage": "https://i.ytimg.com/vi/cJRdD_0ln4Y/hqdefault.jpg",
+        "publishedAt": "2023-01-10T11:08:11Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "MJ Lee, Phil Mattingly",
+        "title": "Biden tries to stay focused on Mexico City summit after revelation that classified documents were found in his private office - CNN",
+        "description": "President Joe Biden is facing sharp new questions about his handling of classified documents as he prepares for a summit with the leaders of the US' neighboring nations.",
+        "url": "https://www.cnn.com/2023/01/10/politics/classified-documents-joe-biden/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230109175052-02-biden-obrador-mexico-010923.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-01-10T11:02:00Z",
+        "content": "President Joe Biden is facing sharp new questions about his handling of classified documents as he prepares for a summit with the leaders of the US neighboring nations.\r\nThe news that several classif… [+8597 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Russia pushes to capture Ukraine's Soledar amid fierce fighting - Reuters UK",
+        "description": "Russian troops have stepped up an assault on the small salt mining town of Soledar in eastern Ukraine, forcing Ukrainian troops to repel waves of attacks led by mercenary forces, officials in Kyiv said.",
+        "url": "https://www.reuters.com/world/ukraine-fights-russian-assault-salt-mining-town-along-eastern-front-2023-01-09/",
+        "urlToImage": "https://www.reuters.com/resizer/xzywcjV8XkVGMNjfIkHNnmfSyg4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/47XAANLHL5JJLPACENAK2BBSQ4.jpg",
+        "publishedAt": "2023-01-10T10:13:00Z",
+        "content": "KYIV/SIVERSK, Ukraine, Jan 10 (Reuters) - Russian troops have stepped up an assault on the small salt mining town of Soledar in eastern Ukraine, forcing Ukrainian troops to repel waves of attacks led… [+5491 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Charlotte Higgins",
+        "title": "Spare by Prince Harry review – a flawed attempt to reclaim the narrative - The Guardian",
+        "description": "By turns sympathetic and absurd, this is a memoir that deals in the tropes of tabloid storytelling even as it lambasts them",
+        "url": "https://www.theguardian.com/books/2023/jan/10/spare-prince-harry-review-attempt-reclaim-narrative",
+        "urlToImage": "https://i.guim.co.uk/img/media/71fef21efa6638332954208608f0ce983eaaf019/0_71_4835_2902/master/4835.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9661235413b50a88905e8c6067cadaf9",
+        "publishedAt": "2023-01-10T09:01:00Z",
+        "content": "The monarchy relies on fiction. It is a constructed reality, in which grown-up people are asked to collude in the notion that a human is more than a human that he or she contains something approachin… [+6792 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Howard Kurtz",
+        "title": "Why Marjorie Taylor Greene, who helped McCarthy become speaker, tried the inside game - Fox News",
+        "description": "Georgia Republican Congresswoman Marjorie Taylor-Greene played the inside game while helping elect Kevin McCarthy House speaker in the 118th Congress.",
+        "url": "https://www.foxnews.com/shows/media-buzz/marjorie-taylor-greene-helped-mccarthy-become-speaker-tried-inside-game",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/marjorie-taylor-greene-kevin-mccarthy-congress.jpg",
+        "publishedAt": "2023-01-10T08:09:00Z",
+        "content": "It all comes down to marketing versus math.\r\nIn this era when members of Congress can build a huge social media following and raise tons of cash online, they dont really need to toe the line of a pol… [+6127 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "The Last of Us: Season 1 Review - IGN",
+        "description": "Check out our The Last of Us Season 1 review. HBO's The Last of Us TV show is a stunning adaptation that should thrill newcomers and enrich those already fam...",
+        "url": "https://www.youtube.com/watch?v=XS3ImpFTxIQ",
+        "urlToImage": "https://i.ytimg.com/vi/XS3ImpFTxIQ/maxresdefault.jpg",
+        "publishedAt": "2023-01-10T08:01:59Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Historic UK rocket launch ends in failure – BBC News - BBC News",
+        "description": "The first ever satellite mission launched from UK soil has ended in failure.A jumbo jet operated by the American Virgin Orbit company carried a rocket out of...",
+        "url": "https://www.youtube.com/watch?v=j-l1zsiAv9U",
+        "urlToImage": "https://i.ytimg.com/vi/j-l1zsiAv9U/hqdefault.jpg",
+        "publishedAt": "2023-01-10T07:53:51Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SamMobile"
+        },
+        "author": "SamMobile, Asif Iqbal Shaik",
+        "title": "Galaxy A71 5G gets served with Android 13 update in the US - SamMobile - Samsung news",
+        "description": "Last month, the Galaxy A71 5G started getting the Android 13 update. However, the new version of Android was only ...",
+        "url": "https://www.sammobile.com/news/galaxy-a71-5g-android-13-update-released-usa/",
+        "urlToImage": "https://www.sammobile.com/wp-content/uploads/2020/03/Galaxy-A71-review-7-720x405.jpg",
+        "publishedAt": "2023-01-10T07:37:00Z",
+        "content": "Last month, the Galaxy A71 5G started getting the Android 13 update. However, the new version of Android was only available for the international variant of the phone. Now, the carrier-locked Galaxy … [+1079 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SamMobile"
+        },
+        "author": "SamMobile, Asif Iqbal Shaik",
+        "title": "Galaxy S23 leather cases leak ahead of announcement - SamMobile - Samsung news",
+        "description": "Samsung usually launches a bunch of accessories for its high-end smartphones and tablets. This year, too, the company is expected ...",
+        "url": "https://www.sammobile.com/news/galaxy-s23-ultra-leather-case-leak/",
+        "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/01/Samsung-Galaxy-S22-Ultra-Leather-Back-Cover-Black-720x405.jpg",
+        "publishedAt": "2023-01-10T05:26:00Z",
+        "content": "Samsung usually launches a bunch of accessories for its high-end smartphones and tablets. This year, too, the company is expected to launch various first-party cases and covers for the Galaxy S23, Ga… [+1355 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Tara John, Rodrigo Pedroso, Kareem El Damanhoury",
+        "title": "Brazilian President Lula criticizes police for protesters' breach of government buildings - CNN",
+        "description": "Brazil's President Luiz Inácio \"Lula\" da Silva has joined a growing chorus of accusations against the country's security forces, as questions mounted on how protesters were able to breach government buildings and wreak havoc inside over the weekend.",
+        "url": "https://www.cnn.com/2023/01/10/americas/brazil-brasilia-police-congress-attack-intl-latam/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230110081950-luiz-inacio-lula-010923.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-01-10T05:02:00Z",
+        "content": "Brazils President Luiz Inácio Lula da Silva has joined a growing chorus of accusations against the countrys security forces, as questions mounted on how protesters were able to breach government buil… [+4815 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "Has Kirby Smart passed Nick Saban as college football's greatest coach? SEC chiefs battle for sport's top spot - CBS Sports",
+        "description": "Smart led Georgia to its second consecutive national title on Monday with a 65-7 trouncing of TCU",
+        "url": "https://www.cbssports.com/college-football/news/has-kirby-smart-passed-nick-saban-as-college-footballs-greatest-coach-sec-chiefs-battle-for-sports-top-spot/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/10/1b73a84a-625e-41a3-a11f-1c932c551735/thumbnail/1200x675/ad14ada1b02740c90f1a44a6c7a2bab9/smart-saban.jpg",
+        "publishedAt": "2023-01-10T04:39:00Z",
+        "content": "Georgia coach Kirby Smart led Georgia to a 65-7 win over TCU on Monday night, and in the process, he became the first head coach to win back-to-back national titles since Nick Saban led Alabama to co… [+2582 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Microsoft in talks to invest $10 bln in ChatGPT owner -Semafor - Reuters",
+        "description": "Microsoft Corp <a href=\"https://www.reuters.com/companies/MSFT.O\" target=\"_blank\">(MSFT.O)</a> is in talks to invest $10 billion into OpenAI, the owner of ChatGPT, which will value the San Francisco-based firm at $29 billion, Semafor reported on Monday, citin…",
+        "url": "https://www.reuters.com/technology/microsoft-talks-invest-10-bln-chatgpt-owner-semafor-2023-01-10/",
+        "urlToImage": "https://www.reuters.com/resizer/7DkPyXRJDLOVbY92gEuTBRZsufE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HV5RW2BEZZK5JA33XB3HXTUZZQ.jpg",
+        "publishedAt": "2023-01-10T04:18:00Z",
+        "content": "Jan 9 (Reuters) - Microsoft Corp (MSFT.O) is in talks to invest $10 billion into OpenAI, the owner of ChatGPT, which will value the San Francisco-based firm at $29 billion, Semafor reported on Monday… [+1613 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Spaceflight Now"
+        },
+        "author": null,
+        "title": "Watch live: SpaceX launches from Florida; California launch delayed – Spaceflight Now - Spaceflight Now",
+        "description": null,
+        "url": "https://spaceflightnow.com/2023/01/10/falcon-9-oneweb-16-live-coverage/",
+        "urlToImage": null,
+        "publishedAt": "2023-01-10T04:13:45Z",
+        "content": "Watch a replay of our coverage of the countdown and launch of a SpaceX Falcon 9 rocket at 11:50 p.m. EST (0450 GMT) from Space Launch Complex 40 at Cape Canaveral Space Force Station, Florida, with 4… [+7485 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Athletic"
+        },
+        "author": "Ken Rosenthal, Dan Hayes",
+        "title": "Carlos Correa, Twins accelerate talks as deal with Mets remains in limbo - The Athletic",
+        "description": "The possibility of a stunning reunion between Carlos Correa and the Twins is increasing, team sources said Monday night.",
+        "url": "https://theathletic.com/4074925/2023/01/09/twins-carlos-correa-contract-talks/",
+        "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/01/09215005/GettyImages-1417476872-1024x683.jpg",
+        "publishedAt": "2023-01-10T03:45:00Z",
+        "content": "The possibility of a stunning reunion between Carlos Correa and the Twins is increasing, team sources said Monday night.\r\nWith the status of the mega-deal he agreed to with the New York Mets last mon… [+4275 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Tony Romm",
+        "title": "House GOP to launch probe on coronavirus origin and federal response - The Washington Post",
+        "description": "With new control of the House, the party is set to use its growing power and more prominent stage to launch investigations of the Biden administration.",
+        "url": "https://www.washingtonpost.com/us-policy/2023/01/09/house-covid-origin-investigation/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BMG3IJ4NIKOBWOZNX5U5ENKFUE.JPG&w=1440",
+        "publishedAt": "2023-01-10T03:10:00Z",
+        "content": "Comment on this story\r\nHouse Republicans on Monday commissioned a special investigative panel focused on the coronavirus pandemic, hoping to leverage their new, powerful majority to press scientists … [+7384 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "California flooding: Ellen DeGeneres films river of mud outside Montecito home | LiveNOW from FOX - LiveNOW from FOX",
+        "description": "Ellen DeGeneres, Oprah Winfrey, Prince Harry, Meghan Markle and the entire community of Montecito was forced under mandatory evacuation orders by Santa Barba...",
+        "url": "https://www.youtube.com/watch?v=lK7GGc-qWm0",
+        "urlToImage": "https://i.ytimg.com/vi/lK7GGc-qWm0/maxresdefault.jpg",
+        "publishedAt": "2023-01-10T02:13:26Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "HarpersBAZAAR.com"
+        },
+        "author": "Rosa Sanchez",
+        "title": "Prince Harry Was \"Embarrassed\" to Have Will and Kate at His and Meghan's Less-Lavish Home - Harper's BAZAAR",
+        "description": "In Spare, he says the Waleses’ home is “like a museum,” while his and Meghan’s Nottingham Cottage had IKEA furniture and a secondhand couch, which they bought with her credit card.",
+        "url": "https://www.harpersbazaar.com/celebrity/latest/a42433953/prince-harry-embarrassed-ikea-furniture-home-spare/",
+        "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-997307960-1673283558.jpg?crop=1.00xw:0.805xh;0,0.0231xh&resize=1200:*",
+        "publishedAt": "2023-01-10T01:52:51Z",
+        "content": "In his memoir, Spare, Prince Harry speaks extensively about how differently he and his brother, Prince William, the heir to the throne, have been treated all their lives.\r\nThe title of the book is a … [+1721 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Ryan Gaydos",
+        "title": "Steelers' Alex Highsmith apologizes for CPR sack celebration, says it wasn't intentional - Fox News",
+        "description": "Pittsburgh Steelers linebacker Alex Highsmith apologized for the CPR sack celebration at the end of the win over the Cleveland Browns on Sunday.",
+        "url": "https://www.foxnews.com/sports/steelers-alex-highsmith-apologizes-cpr-sack-celebration-says-wasnt-intentional",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Alex-Highsmith2.jpg",
+        "publishedAt": "2023-01-10T01:43:00Z",
+        "content": "Pittsburgh Steelers linebacker Alex Highsmith apologized for the CPR sack celebration that he was a part of toward the end of the teams win over the Cleveland Browns on Sunday.\r\nSteelers defensive en… [+2469 chars]"
+      }
+    ]
+  }
